@@ -1,0 +1,21 @@
+
+table{border: 2px solid blue; 
+ border-collapse: collapse;
+  width: 200px;
+   height: 400p; 
+margin-left: 300px;
+}
+.menu{
+    color: blue;
+margin-left: 300px
+}
+td{border: 2px solid blue; padding-left:10px ;}
+
+.link{margin-left: 50px;
+font-size: larger;}
+.footer{
+     text-align: center;
+     font-size: xx-large;
+      margin-top: 50px;
+    }
+.table>p{color: blue; margin: 0; padding: 0; font-size: large;}
